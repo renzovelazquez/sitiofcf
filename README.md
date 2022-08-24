@@ -1,2 +1,5 @@
-### Est es un Titulo
-** subtitulo **
+# Aqui aprenderemos Markdown
+
+**doble ateristcos es negrita**
+
+*Italica es con unsolo asterisco*
